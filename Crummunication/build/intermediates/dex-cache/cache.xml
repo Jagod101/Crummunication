@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/9214a3430944ee910fa8e381de6defd3681c739f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_5e8df61381b17456e2660afe39eb0ff91dd340f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/9d5fda48b1d1839907bdc8f33ce4e67fe9976549/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_dac112cc831c30d62c858b534746c3758d99b37f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/2611067cc7e0a7412e47231c4c85dc522b4ce36c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_418cf6d7f1610802bbbda7709ea8ef21d5384cca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/4accd3ac47875eac9792eac6cdd7355e7d5bae74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_23c31ee399465af06a9c02082b49f08bcb85e740.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.23.0/e57ea1e2220bda5a2bd24ff17860212861f3c5cf/google-oauth-client-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e57ea1e2220bda5a2bd24ff17860212861f3c5cf">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.23.0_3ae837ed8b0639e3b0c9f15bdb6d1642a5556a21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/a0629be75cc960856ea4c9758a8de3763ad8ca42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="93b7d6ba3bb340e935bf7a36408eb3455264b759">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_fa8f3925df36d3e7f551d2768c71cffebe738fad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9_ccfbc0517c7074c48ea4fe30cae6464e6e939b5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/a46a853cce4094d8d331d797ae4d17b0950ef72d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_6acb587eb2c13aff01a17e8b05f27d8d8d96ed85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.23.0/8e86c84ff3c98eca6423e97780325b299133d858/google-http-client-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8e86c84ff3c98eca6423e97780325b299133d858">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/google-http-client-1.23.0_db7dec608964fbd853d8f8402627801a058bac5b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tommy/.android/build-cache/02c19362ce3ab9b6a1717a672335d770329f86e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5b51c9875bcb0c7f3c4dee8aa0e6d96c2957b45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tommy/Apps/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_a60ad3783ba3f6d45b35e29eeeb1e1933954761e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/37210c505322cde0b9f13ed1e280e7482451b42b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_678ae2dc5074ef49331daf96ce43f6a9e78748ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/6aaa7119bf468f2ea34419dd42b0649b484aaf0d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_001a2002f1ba1a31f21f2d204d6df905f52e721f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/82740de547dd0eff2c3c42d1de80721c7b5fbb0d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_c51763d7b8c387d156ed6ba4a67625a8597d9fbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/2070b656ab094530e4aafdd4a61129b4cb8b43d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_fd23c156fd12eae41fbc56ebc5c42809593dc98a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/f69c38e59a6359a415449f54fa7be04d4cdb4363/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_1a57e8eec231cc726332368a88b6cef7ef99ecf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/e5582641e9321166d22c1301a9510608c2085930/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_4dea6a51202c2ec9d2cc9f8b8b90b60a29189792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-calendar/v3-rev292-1.23.0/d5ff8163dbde924254bfa6e4507781d2f672cae/google-api-services-calendar-v3-rev292-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0d5ff8163dbde924254bfa6e4507781d2f672cae">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/google-api-services-calendar-v3-rev292-1.23.0_dbd6542389fe6e0a31ce3823b37d4b90a5424037.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/2b96bd35c2c5a72abf717ae1b054b3023d11cc72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_33b1f48e1fa94502ffadf933a480a1697740d72c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/45fbeaebe8b326fbf1bdd0b5092fa2036064b593/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_16d6faadd9ca183a0ef8ecd012840a852c6e5d54.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tommy/.android/build-cache/72e42952440a698719e938025180547e9e4160d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9bee3594fb9334931321015df175cf2cbaeb805a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/d575969b2675033275448efe654aa088daf63878/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_fc726390ee686c9bad5c9fe6534c9d0ff7cae912.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tommy/.android/build-cache/853e1f1a0722c4f57fd0fcebcfc3cf30ed8983ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ea935443027d1e56d728fcac3642f86855b26f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/6bc31fd4488acc55c340a939c5f90c8110c5e72f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_f9bf4c90c7e77c393e15437e08b63104cc87bb0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/9cec261fa53fcbf456bffacf8bc9fdb5849b268a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_f59e72558cb3c2e462bb5ea1cfc6330a2283a76d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/a4a815b489f1e9a6636689860fcbbdf184663257/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_9fdc40799e0dfc308486a36f99f2bd5006072921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/e9c2fb92c8d66c1370d9b9ca83879752db504607/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_f56973de7da2c8bc2797e31470de7a8d1b905733.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_9eb896ce7ede27d0040664152ee35a32cbad5dea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/dadf7c3be62eaeb7021ca31e87639360a997c1d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_1e1e24310eb2575b4980d954a22ae13a9fc825e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/b7a3ad981a1a0558b815b6006731ea74aba753aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_1745b92738e3f68a299bfe2a0621bd95211d541d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/11a2671ff7d771dd7524007b54c1f8cce5f80074/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_30f90d4f1bc68a4055b5c3b7ee34983f25507fda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/138861f1c36d164a6891fdccf6971fbc31fe8e32/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_ffd0c59e1908ca5f661b7a389e370c7f92328bac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/fb44b589bece8745d4039ba4e38a6e210be0822a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_7c25f5a248570d1d3afae3ed963fd8ce333d993d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/99b076c399b38b4b3a023b01038b1adea797bca1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_9e89da38055f7953ad2b5089adf6dc476a2aacee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/2dba69a4ae050790cfd53559ddf4cbe13d1a055c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_50c7de70f028b17dd78196d19cdd1bf98af6ef3c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2c1dd4fbbf44c412740050a4e1565c94f61ca979/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/5fc26e34c472c4372cf090c780acc8272d2d59a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_f1afa4a7e9bf6f901d9dbd2134bb9bfcc19c46eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/0bd3db671727f97ade834082249b8c5e388e29a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_e58370062b25dc85f865e4c1a65ff01f9cee8637.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/8d2a35080912deeec7f20b684ffbccd3a7865b6d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_b38da0d57e3400c3c6a12b03d14672357e43738c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/bc84a024bb8a9bac7355051ac3ac6a37a2fc5892/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_b4c52f9ce621cf6532f5a39162cf22d9015fc451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/a7c3763ad747bac16fa37d1ae18bf6f7d71b2787/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_3e1be4289a18dbe6982c8e7815e26298c04f4c52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/0576914af2231e195c545dc078ad76f050b9dd0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_cce3fc863bce1c1c187989a736b971b77f9e2a05.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f126db8ba8613f880fb5a513785fdec86e840e6">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bcc9907793151583fed793626241d1ac8cfd899e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/2b8fe4571e48a8a8202108fcc1b8f9482ac0a2f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_093bd675cb5c0b7e841d0c81e777a9ed2adf7a1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/60423480e162b428130e19108783b622036bb59a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_b2ad628555436b44ebd98a0bfd08c32cfeae04aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/1f6928e21e0d055e560446ab112844298387a119/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_baff86661074a70915c0b47961b90b75d5475fe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/7e4851cc1ced7c77622970f78c3297bee3a9f55b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_911a7f4df1cb689b727e4f03274db37c444e5236.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/9672e45c8135fa577b027041208cfaa327dcdec3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_cb89e2ecb2bd8f009a3fe0098c34f1afc433bb1a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tommy/.android/build-cache/d8dd2151503558ae3ee6beaf3aa8ab419f8b4e72/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b38f123b5ebdac8a8f84c27a38621d013c526920/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/92adc662119484392fb03b4eb1cbdd204c6abbf7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_89d5d361b2313eccef256a5679bc1e6e9fb31c40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/56a2a264476e3e3d04f09238964ba22bc703864a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_b17467fcc244ed34f6817602e88cbc1f61f679be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/b3350d5b54dd190a39610f86225fb70e6cc66901/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_a60a4682d69a11122fb6c1c669293d1ec03b0d51.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tommy/.android/build-cache/24c61acc6450b6ddfad2e69c4b799a3e0018e941/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c90051fa19afccd31a8167b823ea328db895695c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/5872d197930a7443920db3995cf1bca20b0152f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_14919cf83432b60de1decee4deee9c7496b0fd5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/0a7eb415d66e9ddb6d2e714ca132a2c33c879dc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_07b70b83010f769eb772ea5308298d9d62b77c1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/48c6d88fd1ddd8930e7ed20a222ab33fcb180912/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_597de1bec0d81d602ffe287a7553d9e1b46c1d7b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tommy/.android/build-cache/5c84b5aee6c03c358095cc4ba843c192e3f8c639/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e1c09f43c5e2f51687efef8586951aeffabcc90/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/40cd6c46b41d095c714a504c9fcec03b0e8d91c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_afd1f653e56fe8e8de4f92e97de49d96fc76e5d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/3dadf6b95f6c75a2632bd0c9e4be5024c0f68e49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_c482a2fe53358111fe8bcd71e0572e843dec8e76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/deca978447257d384cf8165bb838fe4b8f57f42e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_de9ca509327b0755970ab34da2a90d53f85821fa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tommy/.android/build-cache/1dcbb75a69b5f169aed803ef8e057de06ef2bdb6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60fbd7fecd5343650a33ac215900607821f8b767/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/b49b999f62a2887081c63bfd2aa35e17b9276d16/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_0f58e95e2e42f0002950dc06888352bfa8069e45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.23.0/b95521559faf49989ff036a5b15fd16476bdc955/google-api-client-android-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b95521559faf49989ff036a5b15fd16476bdc955">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.23.0_25a416ae692f8cf0ba1a7c24e2272c9ff268a91f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/b1d3a731a89e898dad2420c82bcc83c6b5d79146/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_e855ad6717ffebc85eb5e39df2141890f9bc71fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/5ccae2424cf75a5f53a491f84bc74ce0f7e3b8b4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_0c4c2e5a01af6181b0d87684bc478a1184f9145a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.23.0/fd6761f4046a8cb0455e6fa5f58e12b061e9826e/google-http-client-jackson2-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fd6761f4046a8cb0455e6fa5f58e12b061e9826e">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.23.0_820cdc78e8973d31af61f7748c1cd7a819719d5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/e112265ce5ca198f3e21ff54641cfc4ed26b9e92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_efbe8b9aa11577f4320928d57a28892ea5a9bbd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/cdb050c27cfafd24d1814b7f9c53da6deaf933fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_fb3d10d874dfb94d94d832691df7d58f20f4c079.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/58642c7c60f0f1baf3cc0e975014d66649ed7112/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_b2e804a13ca101381974b05b281ebd0200c1da73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/1c4226afaafa1df78f2584c324cda8beab3f9164/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_83f48ee82221c005b3dd8d4f3ce8584e0f1bf5cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/5f26963af403cc447a8e7b2abc7c11c96e70f8bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_6ac3d74750420a29de360f2fffce0feb4f91d680.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/686683fe6296c3d7f773e376fce68d1ff4543778/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_b50fa688137d44e05134dcd16e9b3eae10741a47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/2d13f05d37a3e3e239188f5e0f169093e0c463ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_29f98346e896d5e9a6e4d96364a41e3ab7e7632a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.23.0/522ea860eb48dee71dfe2c61a1fd09663539f556/google-api-client-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="522ea860eb48dee71dfe2c61a1fd09663539f556">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/google-api-client-1.23.0_aaf8dacfa9e0ebc4cc1d97f87ffd3c342716b8a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/fdcdde559ff9d8ec0a635e6c0fedc9624849ce99/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_5cca2d5cf0df1fd7e10b32464b3d921f894d51b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/7509826ad5ca47949416751e403189cc75f624a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_4ceadefae216232139bc9c92510cd63919c38437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/Apps/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_7fd0a4420da81a776b976b4ff16d2462581b3073.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tommy/.android/build-cache/74d67308a4603a1b4ad974324067731a370320d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_95269c8b33a4294be398cfee5ca0d1e22e44b177/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.23.0/1bbe77a8594d7892571266392b8a7dd0a5980664/google-http-client-android-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1bbe77a8594d7892571266392b8a7dd0a5980664">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.23.0_7ea7e5d06075ad023fa07349283933352c480e60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/4c2a15a008efc1df43c98cf762a129a5f0b0df82/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_8f27d7e6b39d041bc0d3fa8e0f3b41543e309c82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/eaf8ccf11ed0c60afedf44794bcb28f9115c26af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_c93219f1e76890c6d9a69207f8e181e9382eba41.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tommy/.android/build-cache/ad66d18ec1f9d13cc9e56e588378b6fdd7cbf16e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f47729a3612ca2e17813cd7dda2d6c3821048b97/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/guava-jdk5-17.0_f5350d07aed96e877ab749df420ab9c27ecf66d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/90192f6335e1d31383453ae2f799697275363d51/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_28fa6d307d85ddd7d63630ec45015a1ec74772ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/b05c24a4d6c8b2ad399d37995767568566fe3719/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_e3f6a9a9cff1cfb10b70c6052f01591a7e674f05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tommy/.android/build-cache/237f3707cd579a783c627172dd13018f3980c3c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/tommy/dev/AndroidStudioProjects/Crummunication_Android/Crummunication/app/build/intermediates/pre-dexed/debug/classes_501b074ac89ba9e1443311f4ad5f015c6f468aa1.jar" />
+    </item>
+
+</items>
